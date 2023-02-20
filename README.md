@@ -50,7 +50,6 @@
 | MAT | 20CYS211 | Probability and Statistics | 4 |
 | HUM | 19AVP211 | Amrita Value Program II | 1 |
 | HUM | 19SSK211 | Soft Skills – 1 | 2 |
-| HUM | 19MNG300 | Disaster Management | P/F |
 | CYS | 20CYS212 | Multimedia Processing | 3 |
 | CYS | 20CYS213 | System Security | 3 |
 | CYS | 20CYS282 | System Security Lab | 1 |
