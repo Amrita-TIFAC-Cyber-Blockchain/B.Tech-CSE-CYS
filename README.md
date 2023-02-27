@@ -24,6 +24,7 @@
 |:---:|:----:|:--------------|:------:|
 | MAT | 20MAT113 | Discrete Mathematics | 4 | 
 | MAT | 20MAT112 | Number Theory and Algebra | 3 |
+| ENGG | 20CYS111 | Digital Signal Processing | 3 |
 | HUM | 19CUL111 | Cultural Education – II | 2 |
 | ENGG | 20CYS112 | Computer Organisation and Architecture | 4 |
 | ENGG | 20CYS113 | Computer Programming | 3 |
