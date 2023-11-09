@@ -59,6 +59,35 @@
 | CYS | 20CYS283 | Data Structures and Algorithms Lab | 1 |
 | CYS | 20CYS383 | Java Programming Lab | 1 |
 
+## Semester 5 ![](https://img.shields.io/badge/Credit-22+[3]-blue)
+
+| Cat | Code | Subject Title | Credit | 
+|:---:|:----:|:--------------|:------:|
+| MAT | 20CYS301 | Digital Communication | 3 |
+| HUM | 20CYS302 | Secure Coding | 4 |
+| HUM | 20CYS305 | Algorithms: Design and Analysis  | 3 |
+| CYS | 20CYS303 | Computer Networks | 3 |
+| CYS | 20CYS382 | Computer Networks Lab | 1 |
+| CYS | 20CYS304 | Artificial Intelligence and Neural Networks | 4 |
+| HUM |  | Humanities Elective  | 2 |
+| HUM | 19SSK301 | Soft Skills – 2 | 2 |
+| HUM | 19ENV300 | Environmental Science | P/F |
+| ENGG | 19LIV390 | Live – in – Labs | [3] |
+
+## Semester 6 ![](https://img.shields.io/badge/Credit-22+[3]-blue)
+
+| Cat | Code | Subject Title | Credit | 
+|:---:|:----:|:--------------|:------:|
+| CYS | 20CYS311 | Cyber Forensics | 3 |
+| CYS | 20CYS312 | Principles of Programming Languages | 3 |
+| CYS | 20CYS384 | Advanced Protocol Engineering and Security Lab | 1 |
+| CYS | 20CYS313 | Network Security | 3 |
+| CYS | 20CYS314 | Applied Cryptography | 4 |
+| CYS | 20CYS315 | Automata Theory and Compiler Design | 3 |
+| HUM |  | Professional Elective – 1  | 3 |
+| HUM | 19SSK311 | Soft Skills – 3 | 2 |
+| ENGG | 19LIV490 | Live – in – Labs | [3] |
+
 ## Electives 
 
 
